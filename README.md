@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashish-choudhari-git
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning backend 
+- 👀 I’m learning in web development 
+
 
 
 <!---
