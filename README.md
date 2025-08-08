@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center"><span style="color: cyan;">Java Programmer | CSE Undergrad</span></h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1976d2&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Ashish+%F0%9F%91%8B;Full+Stack+Web+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -98,7 +95,16 @@
 ---
 
 ### 📊 GitHub Stats
+<p align="center" height="100px" width="100px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-choudhari-git&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center" height="100px" width="100px">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-choudhari-git&bg_color=0d1117&color=00ffe5&line=00ffe5&point=ffffff&area=true&hide_border=true" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-choudhari-git&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-choudhari-git&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+
